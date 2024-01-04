@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nageshwara sairam</h1>
-<h3 align="center">Graduate student at Northeastern University</h3>
+<h3 align="center">Graduate student at Northeastern University looking for Full time Frontend Engineer roles</h3>
 <h3 align="center">Ex Senior Frontend Engineer at Flipkart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagesh161007&label=Profile%20views&color=0e75b6&style=flat" alt="nagesh161007" /> </p>
-
-- 🔭 I’m currently working on [Nike Customizable shoe using three.js](https://nike-customize-clone.vercel.app/)
-
-- 🌱 I’m currently learning **Vue.js Three.js**
 
 - 👨‍💻 All of my projects are available at [https://nageshsairam.com](https://nageshsairam.com)
 
@@ -17,8 +13,6 @@
 - 📫 How to reach me **seeni.n@northeastern.edu**
 
 <h3 align="left">Projects</h3>
-
-
 
 <h4 align="left">Nike Customizable shoes using Three.js </h4>
 
