@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagesh161007&label=Profile%20views&color=0e75b6&style=flat" alt="nagesh161007" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nageshsairam.com](https://nageshsairam.com)
 
-- 📝 I regularly write articles on [https://www.nageshsairam.com/blog/frontend-interview-guide](https://www.nageshsairam.com/blog/frontend-interview-guide)
-
-- 💬 Ask me about **React Ember Node.js**
-
-- 📫 How to reach me **seeni.n@northeastern.edu**
 
 <h3 align="left">Projects</h3>
 
