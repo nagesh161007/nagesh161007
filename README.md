@@ -5,7 +5,9 @@
 
 <h3 align="left">Projects</h3>
 
-<h4 align="left">Nike Customizable shoes using Three.js </h4>
+<h4 align="left">Nike Customizable shoes using Three.js and Open AI</h4>
+
+Github - https://github.com/nagesh161007/nike-customize-clone
 
 https://nike-customize-clone.vercel.app/
 
@@ -35,7 +37,7 @@ Github - https://github.com/nagesh161007/portfolio
 
 <h3 align="left">Certifications</h3>
 
-CKA Kubernetes Certified Administrator
+CKA Kubernetes Certified Administrator - Acheived 99% score
 
 <img width="787" alt="CKA" src="https://github.com/user-attachments/assets/362fab13-8834-4cb1-89b4-877a4806f016" />
 
