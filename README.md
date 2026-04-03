@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nageshwara sairam, Frontend Engineer at Spectro Cloud</h1>
+<h1 align="center">Hi 👋, I'm Nagesh, Senior Frontend Engineer at Spectro Cloud</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagesh161007&label=Profile%20views&color=0e75b6&style=flat" alt="nagesh161007" /> </p>
 
