@@ -40,18 +40,18 @@
 
 Placid Design from Scratch with React, Vanilla extract, Storybook, Figma
 
-https://placid-ui-website.vercel.app/
+https://placid-ui-website.vercel.app/ - 2026
 
 <img width="1507" height="760" alt="Screenshot 2026-09-21 at 12 20 00 AM" src="https://github.com/user-attachments/assets/3a51149f-c237-4e03-b39c-7c5123817db0" />
 
-https://placid-ui-app.vercel.app/
+https://placid-ui-app.vercel.app/ 
 
 
 <img width="1512" height="762" alt="Screenshot 2026-09-21 at 12 21 50 AM" src="https://github.com/user-attachments/assets/90975940-e7d1-4377-92e9-96bc5534a975" />
 
 
 
-Auto Match Post Review - Reddit Mod app
+Auto Match Post Review - Reddit Mod app 
 
 https://devpost.com/software/match-review-autopilot
 
@@ -61,7 +61,7 @@ https://devpost.com/software/match-review-autopilot
 
 https://devpost.com/software/match-review-autopilot
 
-<h4 align="left">Nike Customizable shoes using Three.js and Open AI</h4>
+<h4 align="left">Nike Customizable shoes using Three.js and Open AI - 2023 </h4> 
 
 Github - https://github.com/nagesh161007/nike-customize-clone
 
