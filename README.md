@@ -55,7 +55,9 @@ Auto Match Post Review - Reddit Mod app
 
 https://devpost.com/software/match-review-autopilot
 
-<img width="600" alt="Screenshot 2023-04-20 at 6 12 03 PM" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/709/700/datas/gallery.jpg">
+<img width="376" height="599" alt="original" src="https://github.com/user-attachments/assets/bc7cf8de-df31-4934-8353-6884e774c93c" />
+
+https://www.youtube.com/watch?v=_It_kvJ-KSY - Demo
 
 
 
