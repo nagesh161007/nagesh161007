@@ -60,9 +60,6 @@ https://devpost.com/software/match-review-autopilot
 https://www.youtube.com/watch?v=_It_kvJ-KSY - Demo
 
 
-
-https://devpost.com/software/match-review-autopilot
-
 <h4 align="left">Nike Customizable shoes using Three.js and Open AI - 2023 </h4> 
 
 Github - https://github.com/nagesh161007/nike-customize-clone
