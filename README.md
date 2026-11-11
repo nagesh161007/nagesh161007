@@ -44,7 +44,7 @@ https://placid-ui-website.vercel.app/ - 2026
 
 <img width="1507" height="760" alt="Screenshot 2026-09-21 at 12 20 00 AM" src="https://github.com/user-attachments/assets/3a51149f-c237-4e03-b39c-7c5123817db0" />
 
-https://placid-ui-app.vercel.app/ 
+https://placid-ui-app.vercel.app/ - template pages inspired from Koala UI free version
 
 
 <img width="1512" height="762" alt="Screenshot 2026-09-21 at 12 21 50 AM" src="https://github.com/user-attachments/assets/90975940-e7d1-4377-92e9-96bc5534a975" />
